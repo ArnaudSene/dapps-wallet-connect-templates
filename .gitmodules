@@ -1,3 +1,6 @@
 [submodule "web3-connectKit-template"]
 	path = web3-connectKit-template
 	url = https://github.com/ArnaudSene/web3-connectKit-template
+[submodule "web3-rainbowkit-template"]
+	path = web3-rainbowkit-template
+	url = https://github.com/ArnaudSene/web3-rainbowkit-template.git
