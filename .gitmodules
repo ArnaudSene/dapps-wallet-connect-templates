@@ -4,3 +4,6 @@
 [submodule "web3-rainbowkit-template"]
 	path = web3-rainbowkit-template
 	url = https://github.com/ArnaudSene/web3-rainbowkit-template.git
+[submodule "web3-appkit-template"]
+	path = web3-appkit-template
+	url = https://github.com/ArnaudSene/web3-appkit-template.git
