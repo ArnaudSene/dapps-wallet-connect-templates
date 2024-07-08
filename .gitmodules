@@ -7,3 +7,6 @@
 [submodule "web3-appkit-template"]
 	path = web3-appkit-template
 	url = https://github.com/ArnaudSene/web3-appkit-template.git
+[submodule "web3-solana-wallet-adapter-template"]
+	path = web3-solana-wallet-adapter-template
+	url = https://github.com/ArnaudSene/web3-solana-wallet-adapter-template.git
